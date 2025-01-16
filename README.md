@@ -101,11 +101,11 @@
        
          composer create-project --prefer-dist laravel/laravel laravel-project
     
-         <h4> go to laravel project </h4>
+         go to laravel project 
     
          cd laravel-project
       
-         <h4> start development server </h4>
+         start development server
       
          php artisan serve
      
