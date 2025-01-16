@@ -99,13 +99,13 @@
 
    # Install Fresh Laravel using composer
        
-            composer create-project --prefer-dist laravel/laravel laravel-project
+         composer create-project --prefer-dist laravel/laravel laravel-project
     
-     go to laravel project
+         <h4> go to laravel project </h4>
     
          cd laravel-project
       
-      start development server
+         <h4> start development server </h4>
       
          php artisan serve
      
