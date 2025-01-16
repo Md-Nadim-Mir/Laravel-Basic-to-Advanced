@@ -63,6 +63,6 @@
    ```
   # Custom Namespaces
    * You can create custom namespaces for better organization. For example, grouping specific services under App\Services.
- # Autoloading    
+  # Autoloading    
   * Laravel's autoloader automatically loads classes based on their namespace, following PSR-4 standards.
  
