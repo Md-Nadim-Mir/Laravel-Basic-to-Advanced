@@ -36,4 +36,16 @@
  * Command line interface used in Laravel is called Artisan. 
  * It includes a set of commands which assists in building a web application. 
  * These commands are incorporated from Symphony framework, resulting in add-on features in Laravel .
+
+# Features of Laravel 
+ * MVC Architecture: Organized code structure.
+ * Blade Templates: Dynamic and reusable views.
+ * Eloquent ORM: Simplified database handling.
+ * Routing: Easy route management.
+ * Authentication: Built-in user handling.
+ * Artisan CLI: Automates tasks.
+ * Migrations: Database version control.
+ * Caching: Boosts performance.
+ * Localization: Multi-language support.
+ * Security: Protects against common vulnerabilities.
  
