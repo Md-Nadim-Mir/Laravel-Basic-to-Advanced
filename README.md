@@ -25,9 +25,10 @@
  * Integration: Seamless with third-party tools.
 
  # What is  Composer ? 
- ```
+
   * Composer is a tool which includes all the dependencies and libraries.
-  * It allows a user to create a project with respect to the mentioned framework (for example, those used in Laravel installation).
+  * It allows a user to create a project with respect to the
+    mentioned framework (for example, those used in Laravel installation).
   * Third party libraries can be installed easily with help of composer.
   * All the dependencies are noted in composer.json file which is placed in the source folder.
- ```
+ 
