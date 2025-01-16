@@ -96,4 +96,18 @@
 
          composer update
     ```
+
+   # Install Fresh Laravel using composer
+        ```
+            composer create-project --prefer-dist laravel/laravel laravel-project
+        ```
+     * go to laravel project
+      ```
+         cd laravel-project
+      ```
+      *  start development server
+      ```
+         php artisan serve
+      ```
+    
  
