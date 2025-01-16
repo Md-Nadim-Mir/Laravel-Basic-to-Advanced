@@ -31,4 +31,9 @@
     mentioned framework (for example, those used in Laravel installation).
   * Third party libraries can be installed easily with help of composer.
   * All the dependencies are noted in composer.json file which is placed in the source folder.
+
+# What is  Artisan ?
+ * Command line interface used in Laravel is called Artisan. 
+ * It includes a set of commands which assists in building a web application. 
+ * These commands are incorporated from Symphony framework, resulting in add-on features in Laravel .
  
