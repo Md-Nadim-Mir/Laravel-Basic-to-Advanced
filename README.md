@@ -67,13 +67,14 @@
   * Laravel's autoloader automatically loads classes based on their namespace, following PSR-4 standards.
  
  # What is Trait in laravel ?
-   * A Trait in Laravel is a reusable collection of methods that can be used in multiple classes, 
+   
+   A Trait in Laravel is a reusable collection of methods that can be used in multiple classes, 
    providing a way to share functionality without inheritance.
 
-   * Code Reuse: Allows sharing methods across classes.
-  *  Declaration: Defined with the trait keyword.
-  *  Usage: Included in a class using the use keyword.
-  *  Conflict Resolution: Handles method name conflicts with insteadof and as.
-  *  Example in Laravel:
-  *  SoftDeletes Trait: Adds soft delete functionality to models.
+    Code Reuse: Allows sharing methods across classes.
+    Declaration: Defined with the trait keyword.
+    Usage: Included in a class using the use keyword.
+    Conflict Resolution: Handles method name conflicts with insteadof and as.
+    Example in Laravel:
+    SoftDeletes Trait: Adds soft delete functionality to models.
  
